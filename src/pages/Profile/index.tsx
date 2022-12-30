@@ -11,7 +11,7 @@ import {
 
 import { ProfileData } from "../../components/ProfileData";
 import { RepoCard } from "../../components/RepoCard";
-import { RandonCalendar } from "../../components/RandomCalendar";
+import { RandomCalendar } from "../../components/RandomCalendar";
 
 export const Profile: React.FC = () => {
   return (
